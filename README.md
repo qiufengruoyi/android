@@ -1,2 +1,0 @@
-# android
-my first repository
